@@ -11,3 +11,5 @@ It reads out the option that the user has selected
 It checks the user’s answers with the correct answers with which it has been provided.  
 At the end of the quiz it provides the user with results and the correct answers.       
 It also provides feedback depending on performance      
+
+![image](https://github.com/Eishani/Quiztones/assets/136086864/bd2c26e4-c547-4d5a-8737-abf1faac227e)
