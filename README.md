@@ -7,4 +7,4 @@ The app’s main feature is asking the user questions from a quiz.
 It reads out the option that the user has selected
 It checks the user’s answers with the correct answers with which it has been provided.
 At the end of the quiz it provides the user with results and the correct answers.
-It also provides feedback depending on performance![image](https://github.com/Eishani/Quiztones/assets/136086864/331a7a96-4e83-40c5-8d9e-7ac38541c4d7)
+It also provides feedback depending on performance
